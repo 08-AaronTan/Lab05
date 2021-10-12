@@ -20,5 +20,6 @@ public class Changescript : MonoBehaviour
     public void RestartButton()
     {
         SceneManager.LoadScene("GameScene");
+
     }
 }
